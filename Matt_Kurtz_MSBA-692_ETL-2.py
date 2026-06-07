@@ -21,10 +21,10 @@ import pandas as pd
 import logging
 from sqlalchemy import create_engine
 
-API_KEY = "boPbXEV52JvurPzWDP+BgtOVS6vqwk1efazPFZ3vFJ2YpHR98RihAowrPEBdYHJd"
+API_KEY = "YOUR_API_KEY"
 
 SUPABASE_CONNECTION = (
-    "postgresql://postgres:xepcuv-ripmac-tofVa0"
+    "postgresql://postgres:YOURPASSWORD"
     "@db.ewbnlnslijasdjgjexpo.supabase.co:5432/postgres"
 )
 
