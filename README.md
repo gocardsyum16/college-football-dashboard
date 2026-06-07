@@ -25,5 +25,16 @@ This project is an MVP analytics dashboard built with Dash and connected to a Su
 
 Install dependencies:
 
-```bash
 pip install -r requirements.txt
+
+Run ETL:
+
+python3 Matt_Kurtz_MSBA-692_ETL.py
+
+Run Dashboard:
+
+python3 app.py
+
+Open:
+
+http://127.0.0.1:8051
