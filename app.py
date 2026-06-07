@@ -10,7 +10,7 @@ from dash import Dash, html, dcc, Input, Output
 import plotly.express as px
 
 SUPABASE_CONNECTION = (
-    "postgresql://postgres:xepcuv-ripmac-tofVa0"
+    "postgresql://postgres:YOURPASSWORD"
     "@db.ewbnlnslijasdjgjexpo.supabase.co:5432/postgres"
 )
 
