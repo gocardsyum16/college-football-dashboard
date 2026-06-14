@@ -41,4 +41,4 @@ http://127.0.0.1:8051
 
 ## Screenshots
 
-Dashboard screenshots are included with the assignment submission.
+Dashboard screenshots are included with the assignment submission. GitHub won't let me upload the screenshots dircetly here for some reason.
